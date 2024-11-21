@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShashankTheAchiever
 - 👀 I’m interested in Learning different Programming Languages
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
