@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShashankTheAchiever
+- 👋 Hi, I’m Shashank
 - 👀 I’m interested in Learning different Programming Languages
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
