@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shashank
+- 👋 Hi, I’m Shashank Yadav
 - 👀 I’m interested in Learning different Programming Languages
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
