@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank Yadav
-- 👀 I’m interested in Learning different Programming Languages
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in Learning different Programming Languages (if possible...🙃)
+- 🌱 I’m currently learning JAVA, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
