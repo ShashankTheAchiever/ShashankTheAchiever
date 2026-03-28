@@ -1,10 +1,10 @@
 ## Hey there 👋
 
 - 👋 Hi, I’m Shashank Yadav
-- 👀 I’m interested in Learning different Programming Languages (if possible...🙃)
-- 🌱 I’m currently learning JAVA, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm interested in Development (especially Game Development) and Problem Solving
+- 🌱 I’m currently learning C++ & Java
+- 💞️ I’m looking to collaborate on  game dev projects and coding challenges
+- 📫 How to reach me: shashankyadav.10a@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
