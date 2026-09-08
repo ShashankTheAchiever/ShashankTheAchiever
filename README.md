@@ -1,11 +1,11 @@
 ## Hey there 👋
 
 - 👋 Hi, I’m Shashank Yadav
-- 👀 I'm interested in Development (especially Game Development) and Problem Solving
+- 👀 I'm interested in Development (especially Game Development) and problem-solving
 - 🌱 I’m currently learning C++, Java & Unity Game Engine
-- 💞️ I’m looking to collaborate on  game dev projects and coding challenges
+- 💞️ I’m looking to collaborate on game dev projects, and I am looking forward to participating in hackathons and coding contests
 - 📫 How to reach me: shashankyadav.10a@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 
 <!---
